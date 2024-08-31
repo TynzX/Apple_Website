@@ -60,7 +60,7 @@ const HowItWorks = () => {
                 </video>
               </div>
           </div>
-          <p className="text-gray font-semibold text-center mt-3">Honkai: Star Rail</p>
+          <p className="text-gray font-semibold text-center mt-3">Source: PUBG Mobile</p>
           </div>
 
           <div className="hiw-text-container">
