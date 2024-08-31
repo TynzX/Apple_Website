@@ -25,9 +25,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 
-
-## 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -752,7 +749,4 @@ canvas {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-## 
 #
